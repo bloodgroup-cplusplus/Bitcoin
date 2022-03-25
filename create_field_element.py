@@ -31,6 +31,11 @@ only true when the num and prime properties are equal.class FieldElement:'''
         if self and other:
             return not (self==other)
 
+    def __add__(self,other):
+        if self.prime ! = other.prime:
+            raise TypeError("Cannot add two numbers in different fields")
+        num = (self.num + other.num) %self.prime 
+        return self.__class__(num , self.prime)
 
 if __name__=='__main__':
     a= FieldElement(7,13)
