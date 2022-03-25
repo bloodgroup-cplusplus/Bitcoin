@@ -37,6 +37,11 @@ only true when the num and prime properties are equal.class FieldElement:'''
         num = (self.num + other.num) %self.prime 
         return self.__class__(num , self.prime)
 
+    def __pow__(self,exponent):
+        num = (self.num **exponent) %self.prime 
+        return self.__class__(num, self.prime)
+
+
 if __name__=='__main__':
     a= FieldElement(7,13)
     b= FieldElement(6,13)
