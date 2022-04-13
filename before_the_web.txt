@@ -1,0 +1,305 @@
+freedom issues were important to us
+information technology could create a decentralized enabler of human freedom 
+potential of computer systems that enables it to work. Tim May dubbed crypto anarchy 
+
+Remake society from within Fredrick Hayek
+Electronic media as the enabler of complexity the world previously was not capable of 
+
+BlackNet: A market for any and all goods and services
+
+A technological means of undermining all governments 
+
+
+The cryptoist manifesto ( "CryptoAnarchist"?)
+
+
+
+Hayekians = Phil Salen 
+
+Computer companies were offering different types of services 
+
+Salen was shaped by reading of hayekian economics 
+
+
+In 
+Government is not a monolithic  thing, which is your enemy.
+0:02
+It's a multitudinous thing, which is your enemy.
+0:07
+Our dream was to enable the  future of human freedom.
+0:11
+In the early 1990s, a group of mathematicians, misfits, hackers, and hobbyists
+0:16
+came together around a shared belief that the internet would either demolish artificial walls
+0:20
+or lay the groundwork for an Orwellian state.
+0:23
+We can prevent the Ministry of Truth.
+0:27
+They saw a branch of mathematics called cryptography
+0:30
+as a weapon against central planning and surveillance in this new virtual world.
+0:34
+And what is a cypherpunk? Cypherpunks are cryptography activists.
+0:37
+The more I realize how it was a  really pivotal technology for society.
+0:42
+The National Security Agency  declared the unrestrained public discussion
+0:46
+of cryptographic research  threatened our national security.
+0:50
+I saw this as the critical fork in the  road for the future of human freedom.
+0:55
+Coming up, Reason presents a four-part  series on a movement that foresaw both
+0:58
+the promise and the peril that lay ahead  when the internet upended the world.
+1:02
+It's like standing on top of the mountain  and seeing that this is out there.
+1:06
+You people who are here can say, "Okay, what kind of world do we really want to build?" And build it.
+1:22
+Imagine, if you will, sitting down to your morning coffee, turning on your home computer to read the day's newspaper.
+1:27
+Well, it's not as far-fetched as it may seem.
+1:30
+The freedom issues were very important to us.
+1:33
+This is a sample of what you  can order through your computer.
+1:37
+It combines the power of your computer  with the convenience of your telephone.
+1:41
+We saw that information technology could create  a 1984 style tyrannical top-down control society.
+1:50
+Or it could develop into something that is  a decentralized enabler of human freedom.
+1:57
+And even back then, our dream was to  enable the future of human freedom.
+2:02
+In the late 1980s at the dawn of the online  age, a group of young computer scientists in Silicon Valley
+2:08
+started grappling with what  this new technology would mean for society.
+2:12
+We took a look at the potential of computer  systems and saw that for everything about civilization
+2:19
+that enables it to work,  we can enable it to work much better.
+2:23
+The most influential figure in what  would become the cypherpunk movement
+2:27
+was the physicist, Tim May, who envisioned the  future internet as a place for what he would dub
+2:31
+"crypto-anarchy," where lawbreakers,  radicals, and political dissidents
+2:35
+could shield their activities from  government surveillance and control.
+2:39
+People doing things that  didn't require permissions
+2:41
+from anyone because the people were  untraceable, it couldn't be stopped.
+2:44
+But there was another group that saw the  potential of computers to remake society
+2:48
+gradually from within, by decentralizing commerce  and improving the dissemination of knowledge.
+2:53
+They were dubbed the High-Tech Hayekians  because their worldview was influenced by
+2:57
+the work of Austrian economist, Friedrich Hayek.
+3:00
+The fundamental insights of Hayekian economics was
+3:03
+how separately formulated plans tend to  mesh well.
+3:07
+And we saw electronic media as a enabler of coordination of a complexity that the world previously was really not capable of.
+3:18
+The clash of visions between the High-Tech Hayekians,
+3:21
+who wanted to build a borderless, frictionless, global marketplace,
+3:24
+and the crypto-anarchist who saw the internet as a technological means of undermining all governments,
+3:29
+set the course for the cypherpunk movement.
+3:33
+If May was the father of crypto-anarchy,
+3:35
+the central figure for The High-Tech Hayekians  was the economist and entrepreneur, Phil Salin.
+3:41
+Now, if you own a personal computer,
+3:42
+we are told you can shop at home on  what's called The Electronic Mall.
+3:46
+It was a few years before the invention of the World  Wide Web but computer companies were offering
+3:50
+a new type of service in which customers  could connect through their phone lines
+3:54
+to post messages to a bulletin board,  check their horoscopes, or go shopping.
+3:58
+You can buy items from department stores
+4:00
+ranging from Nordstroms to Neiman  Marcus, all via computer screen.
+4:05
+Salin, whose outlook was shaped  by his careful reading of Hayek,
+4:08
+understood that these services weren't  merely a curiosity or a digital version
+4:12
+of the old mail order catalog, they were  the beginning of something that had the potential
+4:16
+to one day erase national boundaries  through trade and undermine government power.
+4:22
+In a prescient 1991 essay, he foresaw  how the internet would change the world by 1995,
+4:28
+2000, and beyond. The static  role of store and shopper,
+4:32
+seller and buyer, author and reader, systems  defined by their one-way information flows
+4:38
+will be replaced by new forms of media  enabling two-way information flows.
+4:43
+Before getting involved with computers,  Salin had run a private rocket company
+4:47
+and had coauthored a congressional study  critical of NASA's wasteful spending.
+4:51
+But in his view, there was continuity between  his interest in space travel and computing,
+4:56
+because in both industries, technology's  purpose was to drive down the transaction costs
+5:00
+that impede human activity,  making it feasible to explore new frontiers,
+5:04
+and interact in ways that would  otherwise be prohibitively expensive.
+5:08
+Now, thanks to breakthroughs in computing, the  ability to buy or obtain exactly the information you need
+5:14
+when you want it, in the form you want it, is about to explode at a speed unmatched since the invention of printing.
+5:21
+But Salin was foremost an entrepreneur, and in the mid-1980s,
+5:25
+he set out to launch one of those platforms for buying and selling information.
+5:30
+He called it the American  Information Exchange or AMIX.
+5:34
+This business that we're doing is to  make possible a new kind of thing,
+5:38
+which is being able to buy  and sell information online.
+5:42
+AMIX was a radical idea in the mid 1980s.
+5:46
+Users could buy or sell advice about the real estate market, writing software, or what companies to invest in.
+5:52
+Now, you can say to somebody, so  it's like eBay, or like Priceline, or like Amazon.
+5:57
+When we tried to explain this to people, they simply couldn't get it, they could not wrap their heads around this.
+6:02
+Some of them, I think, couldn't imagine the computational end of it. Milton Friedman didn't get it.
+6:09
+Though it was similar in ways to the online  marketplaces that would launch a decade later,
+6:13
+AMIX was more than just an idea before its time.
+6:17
+What set it apart was it the  grounding in political philosophy
+6:20
+and its lofty goal of elevating individual  decision-making over central planning.
+6:25
+It was an instantiation of Austrian  economics. Now put into code and put online.
+6:33
+Something like this could have profound  human consequences. And that was the vision.
+6:37
+"A fluid transaction-oriented market system,  with two-way feedback." Salin wrote,
+6:43
+"would result in crowding out monolithic,  mostly government bureaucracies."
+6:47
+We were laying the philosophical foundations  of what is e-commerce, that you can now have creative explosion.
+6:55
+It's going to change the world. Yes, that's right.
+7:00
+Intermediating among large populations  of human beings through electronic means
+7:05
+results in all kinds of fascinating  emergent social behavior.
+7:09
+AMIX's chief architect was the pioneering software  engineer, Chip Morningstar,
+7:13
+who had come from a stint at George Lucas's production studio, where he oversaw the creation of Habitat,
+7:19
+which was one of the first online virtual communities.
+7:22
+After joining AMIX, Morningstar coauthored an essay
+7:25
+which argued that in building a world in software, detailed central planning is impossible.
+7:30
+The world is just more complicated. People are more complicated, you cannot know what all their goals are.
+7:35
+What you can do is you can put them into an environment in which certain kinds of things are possible.
+7:40
+What you can't do is tell people what they want.
+7:45
+Phil Salin, Mark Miller, and Chip Morningstar's ideas about how a future internet could decentralize society
+7:51
+inspired Tim May to first articulate a radically different vision.
+7:55
+May, who would go on to become the most  influential figure in the cypherpunk movement,
+7:59
+was introduced to Salin by  Morningstar in December of 1987.
+8:04
+Chip said, "There's this guy out in  Santa Cruz that you ought to talk to."
+8:07
+As a scientist at Intel, May had solved an issue affecting the reliability of the company's memory chips,
+8:13
+called the Alpha Particle problem.
+8:15
+Rich on stock options, he'd been spending his days at the beach, reading science fiction novels,
+8:20
+thinking about how networked personal computers could turn some of their futuristic scenarios into reality.
+8:27
+So I met with Phil in Redwood City and he  described how AMIX would work. And I said,
+8:32
+"People aren't going to be selling meaningless  stuff like surfboard recommendations."
+8:37
+In May's view, AMIX could be useful  as a tool for undermining state power,
+8:41
+but only by shattering legal and social norms.
+8:44
+And I said, "It's going to be corporate  information. It's going to be bomber plans for the B-1 bomber.
+8:49
+Who wants to buy that? A competitor or a company.
+8:52
+Who wants to sell that? Someone who  has access to that information.
+8:55
+It's two different types of libertarians.  He didn't understand the extent to which
+8:59
+you could benefit the world by lowering  transaction costs for everybody.
+9:14
+Like Salin and The High-Tech Hayekians, May saw the personal computer as enabling technology  for sweeping societal changes.
+9:21
+But he had a different vision of a virtual marketplace for any and all goods and services,
+9:26
+which he dubbed Black Net, or a technological means of undermining all governments.
+9:32
+On AMIX user activity was out in the open, but Black Net would be impervious to government tracking and surveillance.
+9:38
+And perhaps it would be a network with no owners at all.
+9:42
+Many people's first response would be to say  that Black Net won't be allowed to happen.
+9:46
+Perhaps, but technology would  probably make it inevitable.
+9:50
+If you don't physically meet the person if you don't even know what continent they're on, you can't coerce them.
+9:55
+Tim May is a smart guy. He was great for  honing our ideas and technologies against.
+10:02
+But I think him as the shock jock for cypherpunks.
+10:06
+I want to live in the world that surrounds us rather than trying and construct one from scratch.
+10:13
+We saw this as emerging from inside the  world and carrying the world along with it.
+10:20
+In 1988, AMIX was acquired by the software giant, Autodesk.
+10:25
+A growing scene of young technologists came together around Salin and The High-Tech Hayekians,
+10:30
+all working towards a common vision of enhancing human freedom through networked personal computing.
+10:36
+It was this hot house of ideas  from which a worldview was brewing.
+10:43
+Salin died of cancer in 1991. The same year that  the World Wide Web became publicly available.
+10:49
+But his intellectual contributions and conflict with May had laid the groundwork for what would come next for the cypherpunks,
+10:55
+the long effort to build a self-sovereign and anonymous form of digital money,
+11:00
+and the embrace of a branch of mathematics called cryptography,
+11:03
+which they came to view as the key to  personal liberation on the internet.
